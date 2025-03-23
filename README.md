@@ -1,6 +1,6 @@
-# DesafioDio_sistema_bancario
+# Sistema Bancário com Python
 
-Este programa simula um sistema bancário simples, permitindo realizar operações de depósito, saque e extrato.
+Este programa na linguagem python simula um sistema bancário simples, permitindo realizar operações de depósito, saque e extrato.
 
 ## Funcionalidades
 
